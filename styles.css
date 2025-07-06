@@ -310,7 +310,7 @@ i {
 
 /* Newsletter */
 .newsletter {
-  background: url("/images/newsletter-image.jpg") center no-repeat;
+  background: url("images/newsletter-image.jpg") center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 5;
